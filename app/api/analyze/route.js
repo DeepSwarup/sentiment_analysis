@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { connectToDatabase } from '../../lib/mongodb';
+// import { connectToDatabase } from '../../lib/mongodb';
 
 export async function POST(request) {
   try {
